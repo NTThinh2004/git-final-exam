@@ -1,5 +1,5 @@
 Giới thiệu cá nhân
-Tôi là Ngô Trường Thịnh, sinh viên CNTT.
+Xin chào tôi là Ngô Trường Thịnh, sinh viên CNTT.
 Hiện tôi đang học về Git, C#, và SQL Server.
 Tôi yêu thích khám phá và học hỏi.
 Mục tiêu của tôi là đi du lịch vòng quanh thế giới.
