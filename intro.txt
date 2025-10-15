@@ -15,3 +15,9 @@ Kỹ năng
 - Giao tiếp
 - học hỏi 
 
+Kế hoạch học tập
+- Ôn lại các lệnh Git cơ bản (add, commit, push, log, diff).
+- Thực hành branching và pull request trên GitHub mỗi tuần.
+- Hoàn thiện dự án WinForms kết nối SQL Server.
+- Tìm hiểu CI/CD cơ bản với GitHub Actions.
+- Ghi chép lại kinh nghiệm học được sau mỗi bài thực hành.
