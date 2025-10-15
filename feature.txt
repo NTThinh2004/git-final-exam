@@ -1,0 +1,5 @@
+Tính năng: Xuất báo cáo học tập tuần.
+- Cho phép xuất ra PDF/Markdown.
+- Tùy chọn lọc theo ngày bắt đầu/kết thúc.
+- Tự động tổng hợp số giờ học mỗi ngày.
+- Nút Export nằm trong menu Reports.
