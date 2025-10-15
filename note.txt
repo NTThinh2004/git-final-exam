@@ -1,3 +1,5 @@
 - Git giúp quản lý lịch sử thay đổi minh bạch.
 - Nhánh (branch) giúp thử nghiệm tính năng an toàn.
 - Commit nhỏ gọn giúp review code dễ dàng.
+- Reset/Revert giúp sửa sai mà vẫn kiểm soát lịch sử.
+- Pull request hỗ trợ review và hợp nhất thay đổi.
