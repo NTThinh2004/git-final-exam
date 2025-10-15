@@ -22,6 +22,7 @@ Ngày kết thúc: 22/10/2025
 
 \- Ngày 7: Tổng kết, viết báo cáo kinh nghiệm và các lỗi thường gặp.
 
+<<<<<<< Updated upstream
 \- Ngày 8: Ôn lại git stash cơ bản.
 
 \- Ngày 9: Thử apply từng stash theo thứ tự.
@@ -29,4 +30,9 @@ Ngày kết thúc: 22/10/2025
 \- Ngày 10: Ghi chú các xung đột nếu có.
 
 \- Ngày 11: Tổng kết khác biệt giữa apply và pop.
+=======
+\- Ngày 8: Viết checklist cho buổi học.
+
+\- ngày 9: Chuẩn bị câu hỏi ôn tập.
+>>>>>>> Stashed changes
 
